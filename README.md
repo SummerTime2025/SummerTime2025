@@ -1,6 +1,6 @@
 # Hi, I'm Amirkhan 👋
 
-**Junior Developer | Python • Telegram Bots • React | AI-assisted development**
+**Junior Developer | Python • Telegram Bots | AI-assisted development**
 
 I build practical projects, learn by shipping working products, and use AI tools to speed up development, debugging and iteration.
 
@@ -43,7 +43,7 @@ I use an **AI-assisted development** workflow. AI helps me implement and debug f
 - integrating components into a working result
 - learning the code I ship instead of treating generated code as magic
 
-## 📚 Currently improving
+## 📚 Currently learning
 
 - JavaScript / TypeScript
 - React
